@@ -112,3 +112,7 @@ summary(finalModel)
 ###########################################
 plot(finalModel)
 
+###########################################
+## More information on these diagnostic plots can be found here:
+## http://data.library.virginia.edu/diagnostic-plots/
+###########################################
